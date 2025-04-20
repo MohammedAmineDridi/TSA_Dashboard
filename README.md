@@ -1,4 +1,4 @@
-# 🌐 Flutter Web Dashboard
+# 🌐 TSA Model Rocket Dashboard
 
 A real-time web dashboard built with **Flutter Web**, powered by **Firebase Firestore** and **Node.js**, and deployed locally using **Docker + Nginx**.
 
@@ -28,14 +28,17 @@ This project is built using the following architecture:
 
 ### 📦 System Architecture
 
-![System Architecture](./assets/architecture_diagram.png)
+![System Architecture](./assets/dashboard_architecture_components.png)
 
 ---
 
 ## 📸 Dashboard UI Screenshot
 
-> Add a real screenshot of your dashboard here  
-![Dashboard Screenshot](./assets/dashboard_screenshot.png)
+![Dashboard Screenshot](./assets/dashboard_screenShot.png)
+
+## 📸 Dashboard UI Recording App Behavior
+
+![Dashboard Recorded Test](./assets/TSA_Dashboard_Recording.mp4)
 
 ---
 
@@ -45,5 +48,5 @@ This project is built using the following architecture:
 
 ```bash
 git clone https://github.com/yourusername/flutter_dashboard_web.git
-cd flutter_dashboard_web
-./run.sh YOUR_PORT_NUMBER
+cd {repoName}
+./run.sh {YOUR_PORT_NUMBER}
