@@ -38,7 +38,7 @@ This project is built using the following architecture:
 
 ## 📸 Dashboard UI Recording App Behavior
 
-![Dashboard Recorded Test](./assets/TSA_Dashboard_Recording.mp4)
+🎥 [Click to watch the dashboard recording](./assets/TSA_Dashboard_Recording.mp4)
 
 ---
 
